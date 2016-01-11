@@ -1,2 +1,3 @@
 # hello-world
-my first repository
+this is my first repository.
+i'm attending to a coursera course: data scientist toolbox.
